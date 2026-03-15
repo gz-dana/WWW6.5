@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "day13_SimpleERC20.sol";
+import "./day13_SimpleERC20.sol";
 
 contract SimplifiedTokenSale is SimpleERC20 {
     // ========== 状态变量 ==========
